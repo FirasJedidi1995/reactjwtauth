@@ -1,0 +1,33 @@
+.registration-form-container {
+  background-color: #fff; /* or any color you want for the form's background */
+  padding: 2rem;
+  max-width: 600px; /* Adjust based on your layout */
+  margin: auto; /* Center the form container */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 2px solid #dbad37; /* Golden dark color border */
+  /* subtle shadow */
+}
+
+.form-wrapper {
+  padding: 2rem;
+}
+
+.form-title {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.registration-form .form-control {
+  margin-bottom: 1rem;
+  border-radius: 0.25rem; /* rounded corners */
+}
+
+.btn-validate {
+  width: 100%; /* Full width */
+  padding: 0.5rem;
+  background-color: #000; /* Black background */
+  border: none;
+  margin-top: 1rem; /* Spacing from the last form field */
+}
+
+/* More specific styling based on your needs... */
